@@ -16,6 +16,9 @@
 
 **rospack depends1 beginner_tutorials** - портирование приложения
 
+**rosrun beginner_tutorials listener.py** - включение писателя
+
+**rosrun beginner_tutorials listener.py** - включение слушателя
 
 **Материалы по курсу**
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29

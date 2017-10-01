@@ -20,6 +20,7 @@
 
 **rosrun beginner_tutorials listener.py** - включение слушателя
 
+
 **Материалы по курсу**
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
 https://www.youtube.com/watch?v=xgLETnSMMYA

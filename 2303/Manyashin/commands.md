@@ -1,11 +1,20 @@
 **Команды ros для работы**
 
-roscd - перейти в директорию ros
-roscore - основная нода 
-rosnode list - список всех нод
-rostopic list - список всех топиков
+**roscd** - перейти в директорию ros
 
+**roscore** - основная нода 
 
+**rosnode list** - список всех нод
+
+**rostopic list** - список всех топиков
+
+**rosrun turtlesim [название ноды]** - симуляция черепахи
+
+**catkin_create_pkg beginner_tutorials std_msgs rospy roscpp** - создание рос пакета
+
+**catkin_make** - создание приложения
+
+**rospack depends1 beginner_tutorials** - портирование приложения
 
 
 **Материалы по курсу**
